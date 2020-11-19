@@ -1,10 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: Some thoughts
+description: A nascent collection of thoughts
+author: Jeremy Orlow
+github: https://github.com/jorlow
+about: Software Engineer (manager), photo/videographer, dad
+google_analytics: G-VW3DHG7XJL
 
 enableTags: true
 tagarray: []
@@ -15,20 +14,20 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+    #- icon: fa-facebook
+    #  link: "#"
+    #- icon: fa-twitter
+    #  link: "#"
+    #- icon: fa-linkedin
+    #  link: "#"
+    #- icon: fa-stack-exchange
+    #  link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/jorlow"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+#share:
+#  twitter_username: github.io
+#  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -38,7 +37,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://jorlow.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
